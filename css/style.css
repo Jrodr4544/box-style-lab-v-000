@@ -4,8 +4,6 @@ body, html {
   font-family: Apple Chancery, cursive;
   margin: 0 auto;
   display: block;
-  text-align: center;
-  background: linear-gradient();
   background-image: url(`../images/white-wood.jpg`);
   background-size: cover;
   background-repeat: no-repeat;
